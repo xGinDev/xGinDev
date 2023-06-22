@@ -1,1 +1,3 @@
-<h1 align="center">Hi 👋, I'm John Correa better known as Gin</h1> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xGinDev&show_icons=true&locale=en" alt="xGinDev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xGinDev&" alt="xGinDev" /></p>
