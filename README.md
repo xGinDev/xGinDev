@@ -1,4 +1,4 @@
-# Doomed to success 💎.
+# Doomed to success 💎..
 
 
 ## Languages and Tools:
