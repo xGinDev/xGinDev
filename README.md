@@ -1,5 +1,6 @@
 # Doomed to success 💎..
 
+![xgindev's Stats](https://github-readme-stats.vercel.app/api?username=xgindev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Languages and Tools:
 <p>	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
