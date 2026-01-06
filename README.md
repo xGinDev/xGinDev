@@ -1,4 +1,4 @@
-# Doomed to success 💎..
+# Doomed to success 💎
 
 ## Languages and Tools:
 <p class="flex">	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
